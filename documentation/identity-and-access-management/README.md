@@ -114,8 +114,9 @@ No production credentials, personal information, customer data or confidential c
 - [ ] Delegated administrator login validation
 - [ ] Multi-Factor Authentication validation
 - [ ] Conditional Access design
-- [ ] Access review procedure
-- [ ] Privileged Identity Management assessment
+- [ ] Manual access review procedure
+- [ ] Microsoft Entra Access Reviews assessment *(requires eligible Microsoft Entra ID P2, Entra ID Governance, Entra Suite or trial licensing)*
+- [ ] Privileged Identity Management assessment *(requires eligible Microsoft Entra ID P2, Entra ID Governance, Entra Suite or trial licensing)*
 
 ## Planned Validation
 
