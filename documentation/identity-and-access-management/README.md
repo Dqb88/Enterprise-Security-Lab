@@ -54,16 +54,13 @@ Finance and Human Resources identities remain standard users without administrat
 flowchart TB
     GA["Global Administrator"]
 
-    GA --> TA["Microsoft 365 tenant administration"]
-    GA --> RA["Purview role administration"]
+    GA -->|manages role membership| IP["Information Protection Admins<br/>Microsoft Purview role group"]
 
-    RA --> PA["SEC-Purview-Admins"]
-    PA --> JS["Joni Sherman<br/>Information Security Administrator"]
+    IP -->|includes| PA["SEC-Purview-Admins<br/>Security group"]
+    PA -->|contains| JS["Joni Sherman<br/>Delegated Information Protection Administrator"]
 
-    FG["SEC-Finance-Users"] --> MB["Megan Bowen<br/>Finance User"]
-    HG["SEC-HR-Users"] --> AV["Adele Vance<br/>Human Resources User"]
-
-    JS --> IP["Information Protection Admins<br/>Purview role group"]
+    FG["SEC-Finance-Users<br/>Security group"] -->|contains| MB["Megan Bowen<br/>Finance User"]
+    HG["SEC-HR-Users<br/>Security group"] -->|contains| AV["Adele Vance<br/>Human Resources User"]
 ```
 
 ### Access Model Summary
