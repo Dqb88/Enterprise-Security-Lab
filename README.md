@@ -147,3 +147,55 @@ Enterprise-Security-Lab/
 ├── diagrams/
 ├── templates/
 └── README.md
+
+```
+
+## Certifications and Learning Path
+
+This laboratory supports my current professional development path:
+
+- CompTIA Security+ — Completed
+- eJPT — Completed
+- ICCA — Completed
+- Microsoft SC-401 — In progress
+- CISSP — In preparation
+- GitHub Advanced Security — Planned
+
+## Security and Privacy
+
+All identities, documents and data used in this laboratory are synthetic.
+
+No production credentials, personal information, confidential corporate information or customer data are stored in this repository.
+
+Screenshots and technical evidence are reviewed and anonymized before publication.
+
+## Roadmap
+
+- [x] Microsoft 365 tenant setup
+- [x] Enterprise identity structure
+- [x] Security group architecture
+- [x] Microsoft Purview delegated administration
+- [ ] Sensitivity label taxonomy
+- [ ] Information Protection deployment
+- [ ] Data Loss Prevention policies
+- [ ] Audit and investigation use cases
+- [ ] Secure SDLC framework
+- [ ] AI governance assessment
+- [ ] NIST AI Risk Management Framework mapping
+- [ ] ISO/IEC 42001 assessment
+- [ ] Cloud security architecture
+- [ ] Security automation
+- [ ] Bachelor thesis secure web platform
+
+## Technologies
+
+- Microsoft 365
+- Microsoft Purview
+- Microsoft Entra ID
+- GitHub
+- GitHub Actions
+- Markdown
+- Python
+- Azure
+- Secure SDLC
+- Large Language Models
