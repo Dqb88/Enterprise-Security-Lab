@@ -1,3 +1,25 @@
+# Security-sensitive local artifacts
+.env*
+!.env.example
+
+# Certificates and private keys
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Infrastructure state and local configuration
+*.tfstate
+*.tfstate.*
+.terraform/
+.azure/
+
+# Secrets and unpublished evidence
+secrets/
+credentials/
+tokens/
+evidence/raw/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
