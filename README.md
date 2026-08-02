@@ -155,8 +155,8 @@ Enterprise-Security-Lab/
 This laboratory supports my current professional development path:
 
 - CompTIA Security+ — Completed
-- eJPT — Completed
-- ICCA — Completed
+- INE eJPT — Completed
+- INE Certified Cloud Associate (ICCA) — Completed
 - Microsoft SC-401 — In progress
 - CISSP — In preparation
 - GitHub Advanced Security — Planned
