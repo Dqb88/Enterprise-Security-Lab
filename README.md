@@ -84,14 +84,14 @@ This implementation follows:
 - [ ] Finance data protection policy
 - [ ] Human Resources data protection policy
 - [ ] DLP incident testing
-- [ ] Endpoint DLP assessment
+- [ ] Endpoint DLP assessment *(requires eligible Microsoft Purview or E5 licensing)*
 
 ### Governance and Compliance
 
 - [ ] Retention policies
 - [ ] Audit configuration
 - [ ] Content Search
-- [ ] Insider Risk Management assessment
+- [ ] Insider Risk Management assessment *(requires eligible Microsoft Purview or E5 licensing)*
 - [ ] Data lifecycle documentation
 
 ## Secure Web Platform
