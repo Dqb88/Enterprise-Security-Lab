@@ -176,7 +176,7 @@ Screenshots and technical evidence are reviewed and anonymized before publicatio
 - [x] Microsoft 365 tenant setup
 - [x] Enterprise identity structure
 - [x] Security group architecture
-- [x] Microsoft Purview delegated administration
+- [x] Delegated Microsoft Purview Information Protection administration
 - [ ] Sensitivity label taxonomy
 - [ ] Information Protection deployment
 - [ ] Data Loss Prevention policies
