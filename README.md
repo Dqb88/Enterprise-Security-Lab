@@ -32,7 +32,7 @@ A dedicated Microsoft 365 tenant has been configured to test enterprise data sec
 | Identity | Function | Access level |
 |---|---|---|
 | Global Administrator | Tenant administration | Privileged administrator |
-| Joni Sherman | Information Security Administrator | Purview delegated administration |
+| Joni Sherman | Information Security Administrator | Delegated Information Protection administration |
 | Megan Bowen | Finance user | Standard user |
 | Adele Vance | Human Resources user | Standard user |
 
@@ -40,7 +40,7 @@ A dedicated Microsoft 365 tenant has been configured to test enterprise data sec
 
 | Security group | Purpose |
 |---|---|
-| `SEC-Purview-Admins` | Purview administration |
+| `SEC-Purview-Admins` | Information Protection and DLP administration |
 | `SEC-Finance-Users` | Finance department users |
 | `SEC-HR-Users` | Human Resources department users |
 
