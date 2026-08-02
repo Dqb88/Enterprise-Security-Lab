@@ -8,7 +8,7 @@ The project is designed to demonstrate how security controls can be planned, imp
 
 The current implementation focuses on Microsoft 365 security and Microsoft Purview as part of my preparation for the Microsoft SC-401 certification.
 
-The laboratory includes:
+The laboratory roadmap covers:
 
 - Microsoft 365 E3 test tenant
 - Enterprise identity architecture
@@ -53,6 +53,8 @@ This implementation follows:
 - Group-based access management
 - Delegated administration
 - Enterprise naming conventions
+
+[View the detailed IAM and Purview RBAC implementation](documentation/identity-and-access-management/README.md)
 
 ## Implementation Status
 
