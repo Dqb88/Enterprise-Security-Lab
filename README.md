@@ -189,14 +189,17 @@ Screenshots and technical evidence are reviewed and anonymized before publicatio
 - [ ] Security automation
 - [ ] Bachelor thesis secure web platform
 
-## Technologies
+## Current Technologies
 
 - Microsoft 365
 - Microsoft Purview
 - Microsoft Entra ID
 - GitHub
-- GitHub Actions
 - Markdown
+
+## Planned Technologies and Practices
+
+- GitHub Actions
 - Python
 - Azure
 - Secure SDLC
